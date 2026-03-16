@@ -10,5 +10,6 @@ namespace SampleConsoleAppForGITDemo
     {
         public int ID { get; set; }
         public string Name { get; set; }
+        public  int PhoneNo { get; set; }
     }
 }
