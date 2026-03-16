@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d6w196LfuQa1qBJD7omJuxLpOyM+g/lQSbmK6Mpz9JZJir7UJQ2fXc26Fm6kjd+ZOxKdqyzXUzb0LPJPzz5qyQ==",
+  "dgSpecHash": "eZzCGcpsgUI=",
   "success": true,
-  "projectFilePath": "F:\\Cg_LPU\\Cg903Batch\\SampleConsoleAppForGITDemo\\SampleConsoleAppForGITDemo\\SampleConsoleAppForGITDemo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitDemo\\DummySampleRepo\\SampleConsoleAppForGITDemo\\SampleConsoleAppForGITDemo\\SampleConsoleAppForGITDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
