@@ -9,5 +9,6 @@ namespace SampleConsoleAppForGITDemo
     internal interface IRepo<T>
     {
         bool Add(T Obj);
+        List<T> GetAll();
     }
 }
